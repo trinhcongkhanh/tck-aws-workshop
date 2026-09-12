@@ -1,0 +1,22 @@
+baseURL = "https://trinhcongkhanh.github.io/tck-aws-workshop/"
+title = "AWS Internship Report"
+theme = "hugo-theme-relearn"
+defaultContentLanguage = "en"
+
+[languages]
+[languages.en]
+title = "AWS Internship Report"
+weight = 1
+languageCode = "en"
+label = "English"
+
+[languages.vi]
+title = "Báo Cáo Thực Tập AWS"
+weight = 2
+languageCode = "vi"
+label = "Tiếng Việt"
+
+[params]
+themeVariant = [ "auto", "relearn-dark", "relearn-light" ]
+author = "TrinhCongKhanh"
+showVisitedLinks = true
