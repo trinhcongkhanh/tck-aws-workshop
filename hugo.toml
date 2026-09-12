@@ -17,6 +17,9 @@ languageCode = "vi"
 label = "Tiếng Việt"
 
 [params]
-themeVariant = [ "auto", "relearn-dark", "relearn-light" ]
-author = "TrinhCongKhanh"
-showVisitedLinks = true
+# Bộ màu xanh dương - đen - trắng hiện đại
+themeVariant = [ "neon", "blue", "relearn-dark" ]
+author = "Trịnh Công Khanh"
+showVisitedLinks = false
+disableBreadcrumb = false
+custom_css = ["css/custom.css"] 

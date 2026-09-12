@@ -3,6 +3,6 @@ title: "AWS Internship Report"
 weight: 1
 ---
 
-# Welcome to AWS Internship Report
+Chào mừng bạn đến với trang báo cáo thực tập và tài liệu AWS Workshop.
 
-Tài liệu báo cáo thực tập và AWS Workshop.
+Tài liệu ghi lại toàn bộ lộ trình thực tập, kiến thức dịch vụ AWS, nhật ký công việc và sản phẩm dự án.
